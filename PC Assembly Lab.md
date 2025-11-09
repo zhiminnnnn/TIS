@@ -7,3 +7,5 @@ The most significant takeaway was bridging the gap between theory and practical.
 Besides, I found it challenging on the cable management because we need to be patient and pay attention to the manual in order to connect the wires to the correct pins on the motherboard. It taught me the importance of documentation and double-checking connections.
 
 Overall, it was a memorable experience and I am truly grateful to Dr. Aryati for giving us this opportunity to learn and gain hands-on experience.
+
+![PC Assembly Lab](https://github.com/user-attachments/assets/345ca058-8bad-457b-a255-37b2478a511b)
