@@ -8,7 +8,7 @@ Group Members:
 2. Farah Aisya binti Jaafar
 3. Muhammad Hafizuddin Hakimi bin Hasmadi
 
-# Group Vision
+# Vision
 A future where every member is supported by a strong, widespread network of genuine connections, unlocking personal and professional opportunities.
 
 # Mission
