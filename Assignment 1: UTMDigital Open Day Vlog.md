@@ -1,5 +1,5 @@
 # Assignment 1: UTMDigital Open Day Vlog
-Date: 28 & 29 October 2025
+Date: 28 & 29 Oct 2025
 
 Group Name: Bridge Buiders
 
