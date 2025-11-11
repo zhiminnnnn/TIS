@@ -10,4 +10,5 @@ Besides, I found it challenging on the cable management because we need to be pa
 
 Overall, it was a memorable experience and I am truly grateful to Dr. Aryati for giving us this opportunity to learn and gain hands-on experience.
 
-![PC Assembly Lab](https://github.com/user-attachments/assets/345ca058-8bad-457b-a255-37b2478a511b)
+![photo_6093720271702395740_y](https://github.com/user-attachments/assets/9c5c4ebe-9274-4787-855d-9af899c71960)
+![photo_6093720271702395741_y](https://github.com/user-attachments/assets/9c5dd878-aea3-4095-a845-57a4f5146fe0)
