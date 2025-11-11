@@ -1,7 +1,7 @@
 # Assignment 1: UTMDigital Open Day Vlog
 Date: 28 & 29 Oct 2025
 
-Group Name: Bridge Buiders
+Group Name: Bridge Builders
 
 Group Members:
 1. Cheng Zhi Min
