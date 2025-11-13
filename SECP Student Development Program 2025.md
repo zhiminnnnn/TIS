@@ -18,3 +18,6 @@ To sum up, the program gave me three main things:
 -  Confidence: Hearing from successful people and seniors made me believe that I can also navigate this journey successfully.
 
 I feel much more focused and motivated about my studies in Data Engineering now. I'm excited to apply what I've learned, not just in my assignments, but in shaping my overall university experience.
+
+![photo_6102774681237654283_w](https://github.com/user-attachments/assets/1a5e8476-6f84-48af-92e4-2160b6fdf085)
+![photo_6102774681237654282_w](https://github.com/user-attachments/assets/e28a3ef6-1e5e-4426-9c58-a2faa5b8fd74)
