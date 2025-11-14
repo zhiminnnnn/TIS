@@ -1,3 +1,5 @@
+<div align="justify">
+
 # PC Assembly Lab - Reflection
 
 Date: 30 Oct 2025
@@ -12,3 +14,5 @@ Overall, it was a memorable experience and I am truly grateful to Dr. Aryati for
 
 ![photo_6093720271702395740_y](https://github.com/user-attachments/assets/9c5c4ebe-9274-4787-855d-9af899c71960)
 ![photo_6093720271702395741_y](https://github.com/user-attachments/assets/9c5dd878-aea3-4095-a845-57a4f5146fe0)
+
+</div>
