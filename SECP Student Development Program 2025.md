@@ -8,7 +8,7 @@ In the morning session, we listened to a talk about "The Attributes of UTM Gradu
 
 The next session was a sharing by Ms. Noor Hazwani Ramli, a former PETRONAS executive who has been running GetMeHired since 2020. She shared that most companies use Applicant Tracking System (ATS) to scan, sort, and filter job applications, so it's important to know how to format my resume to be "ATS-friendly" in order to be properly parsed and ranked by the system. Basically, "content over graphics" is the key for writing effective resumes.
 
-Last but not least, what i learn from seniors' advice in the afternoon session is not to be afraid and hesitate to join any available competitions, for example, Hackathon. I always thought I have to be "prepared" and know everything , and then only I am qualified to participate in competitions, but it's actually the other way round. We only learn and gain new experience as we join competitions.
+Last but not least, what i learn from seniors' advice in the afternoon session is not to be afraid and hesitate to join any available competitions, for example, Hackathon. I always thought I have to be "prepared" and know everything, and then only I am qualified to participate in competitions, but it's actually the other way round. We only learn and gain new experience as we join competitions.
 
 To sum up, the program gave me three main things:
 -  A Vision: I now understand the kind of graduate I should aim to become.
