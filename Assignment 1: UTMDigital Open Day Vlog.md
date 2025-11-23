@@ -1,5 +1,3 @@
-<div align="justify">
-
 # Assignment 1: UTMDigital Open Day Vlog
 Date: 28 & 29 Oct 2025
 
@@ -24,5 +22,3 @@ This event was not just a field trip but a practical, real-world immersion that 
 
 # Vlog
 Click [here](https://bit.ly/UTMDigitalOpenDayVlog) to watch our UTMDigital Open Day vlog.
-
-</div>
