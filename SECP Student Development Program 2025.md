@@ -1,3 +1,5 @@
+<div align="justify">
+
 # SECP Student Development Program 2025 - Reflection
 Date: 8 Nov 2025
 
@@ -19,3 +21,4 @@ I feel much more focused and motivated about my studies in Data Engineering now.
 ![photo_6118683875757198573_y](https://github.com/user-attachments/assets/ac846ab6-44f2-4a1c-96a1-ed1513e23126)
 ![photo_6102774681237654283_w](https://github.com/user-attachments/assets/1a5e8476-6f84-48af-92e4-2160b6fdf085)
 ![photo_6102774681237654282_w](https://github.com/user-attachments/assets/e28a3ef6-1e5e-4426-9c58-a2faa5b8fd74)
+</div>
