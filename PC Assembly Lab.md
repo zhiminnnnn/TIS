@@ -3,7 +3,7 @@
 # PC Assembly Lab - Reflection
 Date: 30 Oct 2025
 
-We attended a PC assembly lab session accompanied by our lecturer, Dr. Aryati on 30th October 2025. In this session, we were split into groups and basically we learned how to assemble and disassemble a PC physically.
+In this session, we were split into groups and we learned how to assemble and disassemble a PC physically.
 
 The most significant takeaway was bridging the gap between theory and practical. We always learn about the components of a system unit from textbooks and Internet videos, but this opportunity to physically handle and assemble them gave us a completely different level of understanding.
 
