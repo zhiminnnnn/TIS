@@ -1,6 +1,6 @@
 <div align="justify">
 
-# PC Assembly Lab - Reflection
+# PC Assemble Lab - Reflection
 Date: 30 Oct 2025
 
 In this session, we were split into groups and we learned how to assemble and disassemble a PC physically.
