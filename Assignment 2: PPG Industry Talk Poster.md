@@ -1,4 +1,6 @@
 # Assignment 2: PPG Industry Talk Poster
+Date: 20 Nov 2025
+
 Group Name: Bridge Builders
 
 Group Members:
