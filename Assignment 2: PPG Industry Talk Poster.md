@@ -5,7 +5,7 @@ Group Members:
 1. Cheng Zhi Min
 2. Farah Aisya binti Jaafar
 3. Muhammad Hafizuddin Hakimi bin Hasmadi
-
+## Poster
 Click [here](https://www.canva.com/design/DAG5zXwxiio/W5NMgL-IEN4MDxWucJTIfA/view?utm_content=DAG5zXwxiio&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1437aabd1a) to view our poster.
 ## Reflection
 Before this, I didn’t know much about PPG, but I was surprised to learn that it’s a global coatings company with over 140 years of history, with products ranging from buildings and cars to electronics and food cans.
@@ -15,7 +15,6 @@ I realized how crucial technology is in PPG’s operations. The talk introduced 
 The talk broadened my understanding of IT careers beyond software development, including data engineering, cloud management, ERP, and cybersecurity. I also felt motivated to improve my skills, especially in SQL, cloud technologies, and problem-solving. I liked how PPG focuses on growth, mentorship, and global project opportunities for interns. It made me feel excited about future opportunities.
 
 In conclusion, the PPG industry talk was very inspiring and helped me see how what I learn in university can be applied in a real company. It also encouraged me to explore more areas in IT and to prepare myself better for future internships.
-
 ## Photos
 ![photo_6118683875757198574_y](https://github.com/user-attachments/assets/0248980c-8881-430d-b100-c89ad475e2ed)
 ![photo_6127248422797511466_y](https://github.com/user-attachments/assets/8c99950d-07f1-4dd2-bdc4-3347840519fd)
