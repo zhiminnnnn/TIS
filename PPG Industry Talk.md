@@ -3,14 +3,6 @@
 # PPG Industry Talk - Reflection
 Date: 20 Nov 2025
 
-Before this, I didn’t know much about PPG, but I was surprised to learn that it’s a global coatings company with over 140 years of history, with products ranging from buildings and cars to electronics and food cans.
-
-I realized how crucial technology is in PPG’s operations. The talk introduced IT teams like Data Analytics, Cloud Infrastructure, and SAP COE, all supporting large-scale systems across multiple countries. Data Analytics showed me how complex real-world data can be and the importance of SQL, data modeling, and dashboards. The Cloud team highlighted the use of platforms like Azure, AWS, VMware, Oracle, and Alibaba Cloud, along with infrastructure-as-code and monitoring tools. The SAP segment explained how integrated systems connect different business areas, emphasizing the scale and importance of IT in global companies.
-
-The talk broadened my understanding of IT careers beyond software development, including data engineering, cloud management, ERP, and cybersecurity. I also felt motivated to improve my skills, especially in SQL, cloud technologies, and problem-solving. I liked how PPG focuses on growth, mentorship, and global project opportunities for interns. It made me feel excited about future opportunities.
-
-In conclusion, the PPG industry talk was very inspiring and helped me see how what I learn in university can be applied in a real company. It also encouraged me to explore more areas in IT and to prepare myself better for future internships.
-
 ![photo_6118683875757198574_y](https://github.com/user-attachments/assets/0248980c-8881-430d-b100-c89ad475e2ed)
 ![photo_6127248422797511466_y](https://github.com/user-attachments/assets/8c99950d-07f1-4dd2-bdc4-3347840519fd)
 ![photo_6127248422797511469_w](https://github.com/user-attachments/assets/0c15bbf7-1308-4bb9-80f4-2cb680fd3fb8)
