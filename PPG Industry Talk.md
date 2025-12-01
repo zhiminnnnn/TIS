@@ -1,1 +1,0 @@
-# PPG Industry Talk - Reflection
