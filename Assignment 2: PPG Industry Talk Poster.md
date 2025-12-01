@@ -1,2 +1,2 @@
 # Assignment 2: PPG Industry Talk Poster
-Click [here](https://drive.google.com/file/d/1tGVqQ9hnq3bWYy9-OITd4Sw9yZd1uP2o/view?usp=drive_link) to view our poster.
+Click [here](https://www.canva.com/design/DAG5zXwxiio/W5NMgL-IEN4MDxWucJTIfA/view?utm_content=DAG5zXwxiio&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1437aabd1a) to view our poster.
