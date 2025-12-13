@@ -11,4 +11,5 @@ This course utilizes project-based learning, industry visits, and talks to conne
 - [Assignment 2: PPG Industry Talk Poster](https://github.com/zhiminnnnn/TIS/blob/main/Assignment%202%3A%20PPG%20Industry%20Talk%20Poster.md)
 - [PC Assemble Lab](https://github.com/zhiminnnnn/TIS/blob/main/PC%20Assemble%20Lab.md)
 - [SECP Student Development Program](https://github.com/zhiminnnnn/TIS/blob/main/SECP%20Student%20Development%20Program%202025.md)
+- [ASEAN Quantum Summit 2025](https://github.com/zhiminnnnn/TIS/blob/main/ASEAN%20Quantum%20Summit%202025.md)
 </div>
