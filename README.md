@@ -10,5 +10,5 @@ This course utilizes project-based learning, industry visits, and talks to conne
 - [Assignment 1: UTMDigital Open Day Vlog](https://github.com/zhiminnnnn/TIS/blob/main/Assignment%201%3A%20UTMDigital%20Open%20Day%20Vlog.md)
 - [Assignment 2: PPG Industry Talk Poster](https://github.com/zhiminnnnn/TIS/blob/main/Assignment%202%3A%20PPG%20Industry%20Talk%20Poster.md)
 - [PC Assemble Lab](https://github.com/zhiminnnnn/TIS/blob/main/PC%20Assemble%20Lab.md)
-- [Student Development Program](https://github.com/zhiminnnnn/TIS/blob/main/SECP%20Student%20Development%20Program%202025.md)
+- [SECP Student Development Program](https://github.com/zhiminnnnn/TIS/blob/main/SECP%20Student%20Development%20Program%202025.md)
 </div>
