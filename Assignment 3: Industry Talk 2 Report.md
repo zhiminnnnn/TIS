@@ -1,9 +1,11 @@
-# Industry Talk 2
+# Assignment 3: Industry Talk 2 Report
 Date: 18 Dec 2025
 
 Speaker: Ts. Hj. Abdul Alim bin Abdul Muttalib
 
 Topic: Project Management & System Development
+## Report
+
 ## Reflection
 This industry talk really changed how I think about my course. Now I know that planning and understanding the system are just as important as coding. The speaker was really good at explaining things. He used examples like cooking and enrolling into university to explain SDLC. I liked this because it made me see that system development is actually a lot like the things we do every day. We need to plan, do the work, check the results then improve. I also learned about the Waterfall method and the Agile method. The Waterfall method is more fixed while the Agile method is flexible which is why the Agile method is more popular for projects where the project requirements often change. Another thing that stood out to me was the teamwork concept because we won't be working alone in the industry so the communication process is very important. The speaker also mentioned AI tools like ChatGPT. I learned that AI tools should assist us but not replace our understanding. Overall, this talk motivated me to focus more on learning the basics and preparing myself better for the future.
 ## Photos
