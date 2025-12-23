@@ -10,7 +10,7 @@ Group Members:
 2. Farah Aisya binti Jaafar
 3. Muhammad Hafizuddin Hakimi bin Hasmadi
 ## Poster
-[Click here](https://www.canva.com/design/DAG5zXwxiio/W5NMgL-IEN4MDxWucJTIfA/view?utm_content=DAG5zXwxiio&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1437aabd1a) to view our poster.
+[Click here](https://www.canva.com/design/DAG5zXwxiio/W5NMgL-IEN4MDxWucJTIfA/view?utm_content=DAG5zXwxiio&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1437aabd1a) to view our poster
 ## Reflection
 Before this, I didn’t know much about PPG, but I was surprised to learn that it’s a global coatings company with over 140 years of history, with products ranging from buildings and cars to electronics and food cans.
 
