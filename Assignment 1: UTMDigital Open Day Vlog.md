@@ -23,5 +23,5 @@ We agree to attend meetings and complete tasks on time, communicate respectfully
 This event was not just a field trip but a practical, real-world immersion that significantly enriched my understanding of the course, Technology and Information System, and my perspective on future careers. In class, we learn about databases, networks, and software development. At UTMDigital, I saw a live Data Center and how enterprise-level servers and network security systems are managed. I understood how theoretical concepts like cloud computing and cybersecurity protocols are implemented to deliver reliable digital services. During our interview with Mr. Nazrul bin Adam Cheah (Assistant IT Officer UTMDigital), we learn about the challenges and how they overcome those challenges when building system, and also some practical advices for our future career. Besides, planning the vlog required teamwork and collaboration. Conducting the interview improved our communication and questioning skills. Overall, this event has helped us in developing our soft skills and also teamwork in general.
 
 ## Vlog
-[Click here](https://bit.ly/UTMDigitalOpenDayVlog) to watch our UTMDigital Open Day vlog.
+[Click here](https://bit.ly/UTMDigitalOpenDayVlog) to watch our UTMDigital Open Day vlog
 </div>
