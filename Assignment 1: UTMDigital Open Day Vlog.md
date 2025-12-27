@@ -13,8 +13,8 @@
 ```
 Group Members:
 1. Cheng Zhi Min
-2. Farah Aisya binti Jaafar
-3. Muhammad Hafizuddin Hakimi bin Hasmadi
+2. Farah Aisya Binti Jaafar
+3. Muhammad Hafizuddin Hakimi Bin Hasmadi
 ```
 
 ## Vision
