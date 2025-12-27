@@ -9,7 +9,7 @@
 </div>
 
 ## Poster
-[Click here](https://bit.ly/PPGIndustryTalkPoster) to view our poster.
+[Click here](https://bit.ly/PPGIndustryTalkPoster) to view the poster.
 ## Reflection
 > _From this talk, I learned how technology plays a role in PPG. The IT teams, such as Data Analytics and Cloud Infrastructure and SAP COE, they all help with systems in many countries. Data Analytics team showed me how complicated the data from the real world can be and how important it is to know SQL and data modeling and how to make dashboards. The Cloud team talk about the platforms they use like Azure, AWS, VMware, Oracle, and Alibaba Cloud. They also talked about things like infrastructure-as-code and the monitor tools._
 >
