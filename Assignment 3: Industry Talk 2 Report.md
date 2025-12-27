@@ -7,7 +7,7 @@
 
 `Venue: HyFlex Classroom, N28a, UTM`
 
-`Speaker: Ts. Hj. Abdul Alim bin Abdul Muttalib`
+`Speaker: Ts. Hj. Abdul Alim Bin Abdul Muttalib`
 
 `Topic: Project Management & System Development`
 </div>
