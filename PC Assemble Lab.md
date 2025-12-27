@@ -1,7 +1,11 @@
 <div align="justify">
 
+<div align="center">
+
 # PC Assemble Lab
-Date: 30 Oct 2025
+`Date: 30 Oct 2025`
+</div>
+
 ## Reflection
 In this session, we were split into groups and we learned how to assemble and disassemble a PC physically.
 
