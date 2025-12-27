@@ -5,6 +5,7 @@ Speaker: Ts. Hj. Abdul Alim bin Abdul Muttalib
 
 Topic: Project Management & System Development
 ## Report
+[Click here](https://bit.ly/IndustryTalk2Report) to view the report.
 
 ## Reflection
 > This industry talk really changed how I think about my course. I learned that planning and understanding the system are just as important as coding. The speaker was really good at explaining things in a way. He used examples like cooking and enrolling into university to explain System Development Life Cycle. I liked this because it made me see that system development is actually a lot like the things we do every day. We need to plan, do the work, check the results, then improve, which is what System Development Life Cycle is about.
