@@ -3,13 +3,14 @@
 <div align="center">
 
 # Assignment 1: UTMDigital Open Day Vlog
-</div>
 
 `Date: 28 & 29 Oct 2025`
 
 `Venue: UTMDigital`
 
 `Group Name: Bridge Builders`
+</div>
+
 ```
 Group Members:
 1. Cheng Zhi Min
