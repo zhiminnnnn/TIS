@@ -1,7 +1,11 @@
 <div align="justify">
 
+<div align="center">
+
 # SECP Student Development Program 2025
-Date: 8 Nov 2025
+`Date: 8 Nov 2025`
+</div>
+
 ## Reflection
 All SECP students from Year 1 to Year 3 are invited to attend this program. As a first-year CS student, it is really motivating because it helps me see the bigger picture of my university life.
 
