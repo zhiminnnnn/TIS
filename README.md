@@ -6,7 +6,60 @@ Section : 02
 Lecturer: Dr. Aryati Binti Bakri
 ```
 This course blends hands-on projects, industry visits talks to help students connect theory to real-world IT practice and build career-ready skills.
+## Topics Covered
+<table>
+  <thead>
+    <tr>
+      <th align="center">Chapter</th>
+      <th align="center">Topic</th>
+      <th align="center">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>Emerging Technology in ICT</td>
+      <td><a href="https://bit.ly/tisnotes">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Hardware</td>
+      <td><a href="https://bit.ly/tisnotes">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Software</td>
+      <td><a href="https://bit.ly/tisnotes">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Information Systems & Methodology</td>
+      <td><a href="https://bit.ly/tisnotes">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Databases & Data Analytics</td>
+      <td><a href="https://bit.ly/tisnotes">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>Network & Communications</td>
+      <td><a href="https://bit.ly/tisnotes">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>Privacy, Security & Ethics</td>
+      <td><a href="https://bit.ly/tisnotes">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>Cloud Computing</td>
+      <td><a href="https://bit.ly/tisnotes">Click here</a></td>
+    </tr>
+  </tbody>
+</table>
 
+## Assignments & Coursework
 <table>
   <thead>
     <tr>
