@@ -72,6 +72,10 @@ _This course blends hands-on projects, industry visits talks to help students co
   </thead>
   <tbody>
     <tr>
+      <td>Design Thinking Project</td>
+      <td><a href="https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md">Click here</a></td>
+    </tr>
+    <tr>
       <td>Assignment 1: UTMDigital Open Day Vlog</td>
       <td><a href="https://github.com/zhiminnnnn/TIS/blob/main/Assignment%201%3A%20UTMDigital%20Open%20Day%20Vlog.md">Click here</a></td>
     </tr>
