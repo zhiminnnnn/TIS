@@ -16,13 +16,11 @@
 [Click here](https://tinyurl.com/tisindustrytalk2report) to view the report.
 
 ## Reflection
-> _This industry talk really changed how I think about my course. I learned that planning and understanding the system are just as important as coding. The speaker was really good at explaining things in a way. He used examples like cooking and enrolling into university to explain System Development Life Cycle. I liked this because it made me see that system development is actually a lot like the things we do every day. We need to plan, do the work, check the results, then improve, which is what System Development Life Cycle is about._
+> _This is an important talk because it totally changed the way I think about my course work. I realized that it is not only important to program, but it is also important to understand the system and the planning process involved. This is because the speaker was very knowledgeable and had the ability to communicate in a way that is easily understandable. He used examples, for instance, preparing meals or registering into an institution when talking about System Development Life Cycle. This was appealing because it highlighted the fact that the process is basically the same as the activities we undertake in our daily lives._
 >
-> _I also learned about the Waterfall method and the Agile method. The Waterfall method is pretty straightforward. It does not change much. On the hand the Agile method is flexible. This is why people like to use the Agile method for projects where the Waterfall method will not work because the project requirements change a lot._
+> _I also learned about the Waterfall process and the Agile process. The Waterfall process is quite simple. It remains the same and does not change much. The Agile process, on the other hand, is quite flexible. Perhaps that is the reason why people use the Agile process for the work that will not be done using the Waterfall process because the requirement keeps changing._
 >
-> _Another thing that I found interesting was the idea of working in a team. We will be working with others in the industry so we need to be able to communicate with each other. The communication process is very important when we are working on a project as a team._
->
-> _The speaker also talked about AI tools like ChatGPT. AI tools should assist us. They should not replace our understanding. Overall, this talk motivated me to focus more on learning the basics and preparing myself better for the future._
+> _Another thing that I thought was quite interesting is team working. We will be working among others in this industry, and we will have to communicate effectively among the group. The process of communicating is highly essential in our case as we will be working as a team for the project. The speaker also discussed AI tools like ChatGPT. We should be helped by AI tools. They should not replace our knowledge. Overall, this session has motivated me to pay more attention to learning the basics and preparing myself for the future._
 ## Photos
 ![WhatsApp Image 2025-11-13 at 5 25 34 AM](https://github.com/user-attachments/assets/0df4b1c7-b33b-4ae4-affb-141ccaa0728c)
 ![IMG-20251218-WA0227](https://github.com/user-attachments/assets/bf0ada72-ccb4-4cec-8fa3-64614585c3d9)
