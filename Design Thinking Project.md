@@ -1,7 +1,8 @@
 <div align="center">
 
 # Design Thinking Project
-## Project Theme: Food Waste Analytics
+`Project Theme: Food Waste Analytics`
+
 `Group 8: Bridge Builders`
 <table>
   <thead>
