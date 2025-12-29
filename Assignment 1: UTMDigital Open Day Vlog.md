@@ -8,7 +8,7 @@
 
 `Venue: UTMDigital`
 
-`Group Name: Bridge Builders`
+`Group 8: Bridge Builders`
 </div>
 
 ```yaml
