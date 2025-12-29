@@ -1,11 +1,14 @@
 <div align="justify">
+<div align="center">
+  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=480&lines=SECP1513+Technology+%26+Information+System)](https://git.io/typing-svg)
+</div>
 
-# SECP1513 Technology & Information System
 ```yaml
 Section : 02
 Lecturer: Dr. Aryati Binti Bakri
 ```
-This course blends hands-on projects, industry visits talks to help students connect theory to real-world IT practice and build career-ready skills.
+_This course blends hands-on projects, industry visits talks to help students connect theory to real-world IT practice and build career-ready skills._
 ## Topics Covered
 <table>
   <thead>
