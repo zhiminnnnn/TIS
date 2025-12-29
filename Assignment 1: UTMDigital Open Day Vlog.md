@@ -9,14 +9,30 @@
 `Venue: UTMDigital`
 
 `Group 8: Bridge Builders`
+<table>
+  <thead>
+    <tr>
+      <th align="center">Group Member</th>
+      <th align="center">Profile</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cheng Zhi Min</td>
+      <td><a href="https://github.com/zhiminnnnn">Click here</a></td>
+    </tr>
+    <tr>
+      <td>Farah Aisya Binti Jaafar</td>
+      <td><a href="https://github.com/farahaisya">Click here</a></td>
+    </tr>
+    <tr>
+      <td>Muhammad Hafizuddin Hakimi Bin Hasmadi</td>
+      <td><a href="https://github.com/HafiyKimmy">Click here</a></td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
-```yaml
-Group Members:
-1. Cheng Zhi Min
-2. Farah Aisya Binti Jaafar
-3. Muhammad Hafizuddin Hakimi Bin Hasmadi
-```
 ## Vision
 A future where every member is supported by a strong, widespread network of genuine connections, unlocking personal and professional opportunities.
 
