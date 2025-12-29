@@ -25,7 +25,6 @@
     </tr>
   </tbody>
 </table>
-</div>
 
 ## Project Requirements
 <table>
@@ -54,6 +53,6 @@
     </tr>
   </tbody>
 </table>
-
+</div>
 
 ## Reflection
