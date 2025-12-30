@@ -13,7 +13,7 @@
 </div>
 
 ## Report
-[Click here](https://tinyurl.com/tisindustrytalk2report) to view the report.
+[Click here](https://drive.google.com/file/d/14Eu6aDwp_bcAmbn33CLWLfm4hyoQn7Sr/view?usp=drivesdk) to view the report.
 
 ## Reflection
 > _This talk was extremely important in that it changed the way of viewing the importance of this course. It was highlighted that not only is programming important, but knowledge about systems and planning processes is equally important. Presentation by expert with strong communication skills played an important part in this. Very practical examples like cooking food or enrolling in an institution were used to explain the System Development Life Cycle with similarities to these everyday tasks._
