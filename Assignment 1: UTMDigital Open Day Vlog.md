@@ -13,21 +13,21 @@
   <thead>
     <tr>
       <th align="center">Group Member</th>
-      <th align="center">Profile</th>
+      <th align="center">GitHub Profile</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Cheng Zhi Min</td>
-      <td><a href="https://github.com/zhiminnnnn">Click here</a></td>
+      <td align="center">me :D</td>
     </tr>
     <tr>
       <td>Farah Aisya Binti Jaafar</td>
-      <td><a href="https://github.com/farahaisya">Click here</a></td>
+      <td align="center"><a href="https://github.com/farahaisya"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Muhammad Hafizuddin Hakimi Bin Hasmadi</td>
-      <td><a href="https://github.com/HafiyKimmy">Click here</a></td>
+      <td align="center"><a href="https://github.com/HafiyKimmy"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
