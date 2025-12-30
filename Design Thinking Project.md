@@ -14,15 +14,15 @@
   <tbody>
     <tr>
       <td>Cheng Zhi Min</td>
-      <td><a href="https://github.com/zhiminnnnn">Click here</a></td>
+      <td align="center">me :D</td>
     </tr>
     <tr>
       <td>Farah Aisya Binti Jaafar</td>
-      <td><a href="https://github.com/farahaisya">Click here</a></td>
+      <td align="center"><a href="https://github.com/farahaisya"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Muhammad Hafizuddin Hakimi Bin Hasmadi</td>
-      <td><a href="https://github.com/HafiyKimmy">Click here</a></td>
+      <td align="center"><a href="https://github.com/HafiyKimmy"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
@@ -38,22 +38,31 @@
   <tbody>
     <tr>
       <td>Report</td>
-      <td><a href="">Click here</a></td>
+      <td><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Video</td>
-      <td><a href="">Click here</a></td>
+      <td><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Data Collection</td>
-      <td><a href="https://tinyurl.com/tisdatacollection">Click here</a></td>
+      <td><a href="https://tinyurl.com/tisdatacollection"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Presentation Slides</td>
-      <td><a href="">Click here</a></td>
+      <td><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
 </div>
+<div align="justify">
 
 ## Reflection
+>_This Design Thinking project was, in fact, a very beneficial and entertaining exercise for me. It opened my eyes to the fact that technology exists beyond coding and focuses on solving issues and problems on a daily basis, which people encounter in their lives. Since food waste in cafeterias is a significant problem at UTM, this project was very relevant to me._
+>
+>_One key takeaway I learned is to think first and foremost about the user. I determined that not only is it inefficiently planned out by the cafeteria staff, but it is also due to varying student schedules and eating times when I surveyed and conducted interviews with students to see why they waste food in the cafeteria._
+>
+>_I also learned how to collaborate effectively with other people. Idea-sharing, receiving constructive feedback, and optimizing our solution as a group helped me increase in self-confidence. The development of the Re-Saji application helped me realize how data concepts, as well as basic AI concepts, can be applied to make a difference._
+>
+>_In the future, I would like to enhance knowledge of Python, SQL, and data analysis. In addition, I intend to participate in more projects/hackathons to acquire experience as well as the knowledge of how to provide optimal real-world solutions._
+</div>
