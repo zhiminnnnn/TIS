@@ -62,11 +62,11 @@ _This course blends hands-on projects, industry visits talks to help students co
   </tbody>
 </table>
 
-## Assignments & Coursework
+## Coursework
 <table>
   <thead>
     <tr>
-      <th align="center">Coursework</th>
+      <th align="center">Title</th>
       <th align="center">Link</th>
     </tr>
   </thead>
