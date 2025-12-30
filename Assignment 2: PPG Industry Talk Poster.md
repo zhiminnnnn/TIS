@@ -9,7 +9,7 @@
 </div>
 
 ## Poster
-[Click here](https://bit.ly/PPGIndustryTalkPoster) to view the poster.
+[Click here](https://drive.google.com/file/d/1tGVqQ9hnq3bWYy9-OITd4Sw9yZd1uP2o/view?usp=drivesdk) to view the poster.
 ## Reflection
 > _The talk was very informative regarding the use of technology in PPG. The use of IT by the Data Analytics team, Cloud Infrastructure team, as well as the SAP COE team, helps support various systems in several different countries. The talk in the Data Analytics part was informative regarding the nature of data in real-world scenarios. The Cloud Infrastructure part of the talk was informative about the kind of clouds being utilized to deliver services._
 >
