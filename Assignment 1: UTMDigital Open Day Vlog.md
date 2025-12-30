@@ -48,5 +48,5 @@ We agree to attend meetings and complete tasks on time, communicate respectfully
 >_Moreover, the interview related to the project allowed one to understand the challenges involved in the system development and the approaches used to deal with them. Moreover, the issue related to career development has been dealt with in the discussion. Moreover, learning and creating a video together has allowed one to understand the significance of working in teams. It is recognized that this immersion experience has allowed one to learn not just technical aspects but also important soft skills like collaboration._
 
 ## Vlog
-[Click here](https://bit.ly/UTMDigitalOpenDayVlog) to watch our UTMDigital Open Day vlog.
+[Click here](https://drive.google.com/file/d/1HnlEagpPOTlcdntyrMfMjGbDoXOuWfzM/view?usp=drivesdk) to watch our UTMDigital Open Day vlog.
 </div>
