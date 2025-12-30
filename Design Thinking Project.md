@@ -45,12 +45,12 @@
       <td><a href="">Click here</a></td>
     </tr>
     <tr>
-      <td>Presentation Slides</td>
-      <td><a href="">Click here</a></td>
-    </tr>
-    <tr>
       <td>Data Collection</td>
       <td><a href="https://tinyurl.com/tisdatacollection">Click here</a></td>
+    </tr>
+    <tr>
+      <td>Presentation Slides</td>
+      <td><a href="">Click here</a></td>
     </tr>
   </tbody>
 </table>
