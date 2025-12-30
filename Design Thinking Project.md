@@ -45,6 +45,10 @@
       <td><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
+      <td>Prototype</td>
+      <td><a href="https://www.canva.com/design/DAG8VfSh4RA/JDIBgjQg9vT3t1p_g7iPAQ/view?utm_content=DAG8VfSh4RA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb542c503c1"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+    <tr>
       <td>Data Collection</td>
       <td><a href="https://tinyurl.com/tisdatacollection"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
