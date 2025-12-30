@@ -64,5 +64,5 @@
 >
 >_I also learned how to collaborate effectively with other people. Idea-sharing, receiving constructive feedback, and optimizing our solution as a group helped me increase in self-confidence. The development of the Re-Saji application helped me realize how data concepts, as well as basic AI concepts, can be applied to make a difference._
 >
->_In the future, I would like to enhance knowledge of Python, SQL, and data analysis. In addition, I intend to participate in more projects/hackathons to acquire experience as well as the knowledge of how to provide optimal real-world solutions._
+>_In the future, I would like to enhance knowledge of Python, SQL, and data analysis. In addition, I intend to participate in more projects and hackathons to acquire experience as well as the knowledge of how to provide optimal real-world solutions._
 </div>
