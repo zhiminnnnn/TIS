@@ -22,42 +22,42 @@ _This course blends hands-on projects, industry visits talks to help students co
     <tr>
       <td align="center">1</td>
       <td>Emerging Technology in ICT</td>
-      <td align="center"><a href="https://bit.ly/tisnotes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://docs.google.com/presentation/d/1os-GNy85fi4VfEpuHrz-Whv6oFRfrfuW/edit?usp=drivesdk&ouid=107049658821097803736&rtpof=true&sd=true"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Hardware</td>
-      <td align="center"><a href="https://bit.ly/tisnotes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://docs.google.com/presentation/d/1zZDmghqQPei4ifqkw5DFBz-A51Xjd00k/edit?usp=drivesdk&ouid=107049658821097803736&rtpof=true&sd=true"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>Software</td>
-      <td align="center"><a href="https://bit.ly/tisnotes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://docs.google.com/presentation/d/1oJhuPTp9hBCdFcfjR0NkjhakDETfjRgv/edit?usp=drivesdk&ouid=107049658821097803736&rtpof=true&sd=true"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>Information Systems & Methodology</td>
-      <td align="center"><a href="https://bit.ly/tisnotes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://docs.google.com/presentation/d/1owqe6pLipWMC6ZRlaMCstmipAYLSPFXJ/edit?usp=drivesdk&ouid=107049658821097803736&rtpof=true&sd=true"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Databases & Data Analytics</td>
-      <td align="center"><a href="https://bit.ly/tisnotes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1xmbm4ALdU6hf7yLfwtliP85C8mpRhqPs/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">6</td>
       <td>Network & Communications</td>
-      <td align="center"><a href="https://bit.ly/tisnotes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://docs.google.com/presentation/d/1mbcQmCShOB8DsHGxmP5qpN99K2VO-YDt/edit?usp=drivesdk&ouid=107049658821097803736&rtpof=true&sd=true"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>Privacy, Security & Ethics</td>
-      <td align="center"><a href="https://bit.ly/tisnotes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1BHeKmrtuuZ2HARd6P8r2Ot4tR1Gng2V0/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">8</td>
       <td>Cloud Computing</td>
-      <td align="center"><a href="https://bit.ly/tisnotes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1zJGL9ccnALmDu-41NSiQK34OZyxwY3nf/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
