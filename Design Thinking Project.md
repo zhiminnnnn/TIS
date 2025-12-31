@@ -8,7 +8,7 @@
   <thead>
     <tr>
       <th align="center">Group Member</th>
-      <th align="center">Profile</th>
+      <th align="center">GitHub Profile</th>
     </tr>
   </thead>
   <tbody>
