@@ -1,9 +1,7 @@
 <div align="center">
   
 # Industry Talk 3
-`Date: 7 Jan 2026`
-
-`Venue: Hyflex Classroom, N28a, UTM`
+`Date: 14 Jan 2026`
 
 `Speaker: Ms. Qaisara Rohzan`
 </div>
