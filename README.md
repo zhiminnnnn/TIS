@@ -100,6 +100,10 @@ _This course blends hands-on projects, industry visits talks to help students co
       <td align="center"><a href="https://github.com/zhiminnnnn/TIS/blob/main/ASEAN%20Quantum%20Summit%202025.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
+      <td>JCorp Industrial Visit</td>
+      <td><a href="https://github.com/zhiminnnnn/TIS/blob/main/JCorp%20Industrial%20Visit.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+    <tr>
       <td>Industry Talk 3</td>
       <td><a href="https://github.com/zhiminnnnn/TIS/blob/main/Industry%20Talk%203.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
