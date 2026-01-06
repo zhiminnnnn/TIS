@@ -1,7 +1,7 @@
 <div align="center">
 
-# Design Thinking Project
-`Project Theme: Food Waste Analytics`
+# Design Thinking: Food Waste Analytics
+***"Reduce cafeteria waste through predictive data modeling"***
 
 `Group 8: Bridge Builders`
 <table>
