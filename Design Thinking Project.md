@@ -26,6 +26,22 @@
     </tr>
   </tbody>
 </table>
+</div>
+<div align="justify">
+  
+## Project Overview
+"Re-Saji" is an innovative smartphone application conceptualized to address an evergreen problem related to food waste in UTM cafeterias. By not relying on "guesswork" while food preparation, this system utilizes real-time data and AI to analyze and educate students to eat responsibly.
+## Design Thinking Process
+This project used a comprehensive 5-step process of Design Thinking:
+- **Empathize**: Conducted interviews and surveys to know the problem areas for both students and cafeteria staff, resulting in over 45 responses.
+- **Define**:Identified the problem in its basic form, stating that food wastage comes about because of the absence of proper consumption forecasting.
+- **Ideate**: Brainstormed ideas included smart bins, AI image recognition, but eventually, the decision landed on the QR reserve app.
+- **Prototype**: Developed low-fidelity UI design prototypes with Canva. Designed the user journey for both students and kitchen staff.
+- **Test**: Conducted testing of the prototype on UTM students and staff, who positively responded to its uses in forecasting student enrolment and minimizing wastage.
+## Technical Skills & Tools
+- **Design Tools**: Canva (UI/UX Prototyping).
+- **Technologies**: AI Image Recognition (for waste analysis), AI-based Prediction Models (for demand forecasting).
+- **Methodology**: Design Thinking, User Research & Data-Driven Decision Making
 
 ## Project Requirements
 <table>
@@ -58,8 +74,7 @@
     </tr>
   </tbody>
 </table>
-</div>
-<div align="justify">
+
 
 ## Reflection
 >_This Design Thinking project was, in fact, a very beneficial and entertaining exercise for me. It opened my eyes to the fact that technology exists beyond coding and focuses on solving issues and problems on a daily basis, which people encounter in their lives. Since food waste in cafeterias is a significant problem at UTM, this project was very relevant to me._
@@ -69,4 +84,5 @@
 >_I also learned how to collaborate effectively with other people. Idea-sharing, receiving constructive feedback, and optimizing our solution as a group helped me increase in self-confidence. The development of the Re-Saji application helped me realize how data concepts, as well as basic AI concepts, can be applied to make a difference._
 >
 >_In the future, I would like to enhance knowledge of Python, SQL, and data analysis. In addition, I intend to participate in more projects and hackathons to acquire experience as well as the knowledge of how to provide optimal real-world solutions._
+</div>
 </div>
