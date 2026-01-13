@@ -29,21 +29,21 @@
 </div>
 <div align="justify">
   
-## Project Overview
+## 🔎Project Overview
 "Re-Saji" is an innovative smartphone application conceptualized to address an evergreen problem related to food waste in UTM cafeterias. By not relying on "guesswork" while food preparation, this system utilizes real-time data and AI to analyze and educate students to eat responsibly.
-## Design Thinking Process
+## 💡Design Thinking Process
 This project used a comprehensive 5-step process of Design Thinking:
 - **Empathize**: Conducted interviews and surveys to know the problem areas for both students and cafeteria staff, resulting in over 45 responses.
 - **Define**:Identified the problem in its basic form, stating that food wastage comes about because of the absence of proper consumption forecasting.
 - **Ideate**: Brainstormed ideas included smart bins, AI image recognition, but eventually, the decision landed on the QR reserve app.
 - **Prototype**: Developed low-fidelity UI design prototypes with Canva. Designed the user journey for both students and kitchen staff.
 - **Test**: Conducted testing of the prototype on UTM students and staff, who positively responded to its uses in forecasting student enrolment and minimizing wastage.
-## Technical Skills & Tools
+## 🛠️Technical Skills & Tools
 - **Design Tools**: Canva (UI/UX Prototyping).
 - **Technologies**: AI Image Recognition (for waste analysis), AI-based Prediction Models (for demand forecasting).
 - **Methodology**: Design Thinking, User Research & Data-Driven Decision Making
 
-## Project Requirements
+## 📋Project Requirements
 <table>
   <thead>
     <tr>
@@ -76,7 +76,7 @@ This project used a comprehensive 5-step process of Design Thinking:
 </table>
 
 
-## Reflection
+## 💭Reflection
 >_This Design Thinking project was, in fact, a very beneficial and entertaining exercise for me. It opened my eyes to the fact that technology exists beyond coding and focuses on solving issues and problems on a daily basis, which people encounter in their lives. Since food waste in cafeterias is a significant problem at UTM, this project was very relevant to me._
 >
 >_One key takeaway I learned is to think first and foremost about the user. I determined that not only is it inefficiently planned out by the cafeteria staff, but it is also due to varying student schedules and eating times when I surveyed and conducted interviews with students to see why they waste food in the cafeteria._
