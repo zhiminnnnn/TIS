@@ -9,7 +9,7 @@ Section : 02
 Lecturer: Dr. Aryati Binti Bakri
 ```
 _This course blends hands-on projects, industry visits talks to help students connect theory to real-world IT practice and build career-ready skills._
-## Topics Covered
+## 🎯Topics Covered
 <table>
   <thead>
     <tr>
@@ -62,7 +62,7 @@ _This course blends hands-on projects, industry visits talks to help students co
   </tbody>
 </table>
 
-## Coursework
+## 💻Coursework
 <table>
   <thead>
     <tr>
