@@ -1,6 +1,6 @@
 <div align="center">
 
-# JCorp Industrial Visit
+# Assignment 4: JCorp Industrial Visit Newsletter
 `Date: 7 Jan 2026`
 
 `Venue: Johor Corporation, Johor Bahru`
@@ -11,21 +11,23 @@
 </div>
 <div align="justify">
 
+## Newsletter
+[Click here]() to view the newsletter.
 ## Key Learnings
 ### 1. Strategic Vision (AI-First Ambition)
 JCorp is transforming itself into an AI-First Investment Holding Company. This entails moving out of the classical top-down organizational structure and adopting an “Agentic Enterprise” structure that is decentralized and consists of self-owned agents that function as separate units.
 ### 2. The “TRIA” Initiative
 The strategy hinges on the integration of AI, Automation, and Analytics.
-- AI: Enhances decision-making and creates personalized solutions.
-- Automation: Focuses on efficiency, reducing errors, and saving costs.
-- Analytics: Obtains insightful information through data models to optimize strategies.
+- **AI**: Enhances decision-making and creates personalized solutions.
+- **Automation**: Focuses on efficiency, reducing errors, and saving costs.
+- **Analytics**: Obtains insightful information through data models to optimize strategies.
 ### 3. Structured Innovation (RITE Framework)
 JCorp adopts a RITE framework for digital transformation, consisting of Ideate, Validation, Prototype, Product. This also involves validation by AI prompts, as well as creating Minimum Lovable Products as opposed to Minimum Viable Products.
 ### 4. Operational Milestones
-- Cloud-First (2020-2022): Established the foundation for unified operations.
-- AIOps (2022): Implemented a shift from human-managed network operation centers to fully automated, AI-run processes for the identification and resolution of anomalies in real-time.
-- Own LLM (2025): JCorp is currently developing their own Large Language Model to automate business processes.
-- Command Centre (2026): An integrated central nerve system for carrying out real-time analysis and strategic foresight at the level of all the subsidiaries.
+- **Cloud-First (2020-2022)**: Established the foundation for unified operations.
+- **AIOps (2022)**: Implemented a shift from human-managed network operation centers to fully automated, AI-run processes for the identification and resolution of anomalies in real-time.
+- **Own LLM (2025)**: JCorp is currently developing their own Large Language Model to automate business processes.
+- **Command Centre (2026)**: An integrated central nerve system for carrying out real-time analysis and strategic foresight at the level of all the subsidiaries.
 ### 5. "People, Process, and Innovation" Empowerment
 The strategy focuses on the fact that people are at the core of the enterprise and that AI is the catalyst to make processes smoother and create an experimental mindset.
 ## Reflection
