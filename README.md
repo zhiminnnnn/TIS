@@ -72,7 +72,7 @@ _This course blends hands-on projects, industry visits talks to help students co
   </thead>
   <tbody>
     <tr>
-      <td>Design Thinking Project</td>
+      <td>Design Thinking: Food Waste Analytics</td>
       <td align="center"><a href="https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
@@ -88,6 +88,10 @@ _This course blends hands-on projects, industry visits talks to help students co
       <td align="center"><a href="https://github.com/zhiminnnnn/TIS/blob/main/Assignment%203%3A%20Industry%20Talk%202%20Report.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
+      <td>Assignment 4: JCorp Industrial Visit Newsletter</td>
+      <td><a href="https://github.com/zhiminnnnn/TIS/blob/main/Assignment%204:%20JCorp%20Industrial%20Visit%20Newsletter.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+    <tr>
       <td>PC Assemble Lab</td>
       <td align="center"><a href="https://github.com/zhiminnnnn/TIS/blob/main/PC%20Assemble%20Lab.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
@@ -98,10 +102,6 @@ _This course blends hands-on projects, industry visits talks to help students co
     <tr>
       <td>ASEAN Quantum Summit 2025</td>
       <td align="center"><a href="https://github.com/zhiminnnnn/TIS/blob/main/ASEAN%20Quantum%20Summit%202025.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
-    </tr>
-    <tr>
-      <td>JCorp Industrial Visit</td>
-      <td><a href="https://github.com/zhiminnnnn/TIS/blob/main/JCorp%20Industrial%20Visit.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Industry Talk 3</td>
