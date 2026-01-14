@@ -7,10 +7,10 @@
 
 `Venue: HyFlex Classroom, N28a, UTM`
 ```
-                    Speakers: 1️. Ooi Ai Ling (Associate Director, APAC IT Lead)   
-                              2️. Derrick Tan Horng Shi (Data Analytics Manager)   
-                              3️. Vijaykumar Dhandapani (Cloud CoE Architect)      
-                              4️. Patrick Thong (SAP CoE Operations, DTR Lead APAC)
+                         Speakers: 1️. Ooi Ai Ling (Associate Director, APAC IT Lead)   
+                                   2️. Derrick Tan Horng Shi (Data Analytics Manager)   
+                                   3️. Vijaykumar Dhandapani (Cloud CoE Architect)      
+                                   4️. Patrick Thong (SAP CoE Operations, DTR Lead APAC)
 ```
 </div>
 
