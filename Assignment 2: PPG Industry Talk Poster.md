@@ -6,7 +6,7 @@
 `Date: 20 Nov 2025`
 
 `Venue: HyFlex Classroom, N28a, UTM`
-```yaml
+```
 Speakers:
 1️. Ooi Ai Ling (Associate Director, APAC IT Lead)   
 2️. Derrick Tan Horng Shi (Data Analytics Manager)   
