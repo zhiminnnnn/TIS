@@ -15,8 +15,7 @@ The ASEAN Quantum Summit 2025 is convened on 11 December 2025 at Dewan Sultan Is
 It was able to convene participants from research, policy, industry, academia, and students both in ASEAN nations and other partner nations like Japan. The key agenda was to promote cooperation in the region, create awareness on quantum technologies, and share visions on the development of quantum research, education, and industry in ASEAN.
 ## Key Highlights
 ### 1. Opening Ceremony & Keynote Sessions
-The conference kicked off with keynote speeches by renowned individuals in the industry, stressing that quantum technology represents an imperative area for future economic and security relevance and competitiveness. During this event, the need for cooperation among ASEAN nations in making progress in areas like quantum computing, quantum communications, and post-quantum cyberspace security could be noted.
-The talks also stressed the need for:
+The event began with keynotes from well-known persons in the sector, highlighting the fact that quantum technology is a imperative sector in which the world will need to be competitive in the coming era. In the conference, one matter in respect to which the need for collaboration among ASEAN countries to advance in sectors such as quantum computation, quantum communication, and cyberspace security in the post quantum era could be observed. The talks also stressed the need for:
 - Strong government support and policy frameworks
 - Investment in quantum education and workforce development
 - Cross-border research collaborations
@@ -28,9 +27,9 @@ There were a number of panel discussions organized, where experts from academia 
 
 An important learning was that quantum technology is in its early development stage and that this is the most important time for ASEAN member states to prioritize investing in human and physical capital.
 ### 3. Exhibitions & Demonstrations
-The exhibition area itself highlighted quantum-related research projects, prototypes, and learning resources. The displays helped the participants, mainly students, understand some difficult concepts about quantum by giving proper visual and interactive examples. Apart from that, the exhibition of quantum technology applications regarding secure communication, optimization, and quantum computing was also shown.
+The quantum-related research projects, prototypes, as well as learning aids, were emphasized within the area itself. The exhibits were able to benefit the audience composed mainly of students by making some tough concepts related to quantum clear through appropriate examples. Aside from that, the exhibit on the application of quantum technology in secure communication, optimization, and quantum computing was demonstrated as well.
 ## Reflection
->_The event was significant in learning in the sense that I was able to be exposed to the diverse areas that exist around quantum computing, in communication, education, and business. Such great participation of students, academics, and industry was evidence of progress in quantum technologies being collaborative and interdisciplinary. This shared interest simply reassured me that cooperation among sectors plays a big role in scientific progress._
+>_This was important in the aspect of learning since I was afforded the opportunity to be aware of the various sectors existing in the world of quantum computing. The high level of student and academic sector participation in the matter of quantum technologies demonstrated the level of cooperation between the sectors in the progress of the technologies. This was an important aspect for me since it only reaffirmed the impact of cooperation in the world of sciences._
 >
 >_It is clear from the welcome and keynote speeches that Malaysia is not only firm on enhancing its scientific development but also on widening international collaborations. Since it is in such a line, this has brought many thoughts on how students could have something to do with scientific advancements in general and current trends like quantum computing. The sense of national and global direction presented here was motivating and an inspiration for many._
 >
