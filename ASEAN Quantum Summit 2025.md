@@ -9,11 +9,11 @@
 `Venue: Dewan Sultan Iskandar, UTM`
 </div>
 
-## Event Overview
+## 📅Event Overview
 The ASEAN Quantum Summit 2025 was convened on 11 December 2025 at Dewan Sultan Iskandar, Universiti Teknologi Malaysia. This event is regarded as historic, as the first-ever ASEAN-level summit on quantum science and technology was conducted. The programme was organized by Universiti Teknologi Malaysia, with support provided by the Malaysia Quantum Information Initiative.
 
 Participants from research, policy, industry, academia, and student bodies, both from ASEAN nations and partner nations such as Japan, were successfully convened. The regional promotion of cooperation, the creation of awareness regarding quantum technologies, and the sharing of visions for the development of quantum research, education, and industry in ASEAN were established as the key agenda.
-## Key Highlights
+## 📌Key Highlights
 ### 1. Opening Ceremony & Keynote Sessions
 The event was initiated with keynotes delivered by well-known figures in the sector, and the fact that quantum technology is an imperative field in which global competitiveness will be required in the coming era was highlighted. During the conference, the need for collaboration among ASEAN countries to advance in sectors such as quantum computation, quantum communication, and cyberspace security in the post-quantum era was observed. Furthermore, the necessity for the following was stressed in the talks:
 - Strong government support and policy frameworks
@@ -28,7 +28,7 @@ A number of panel discussions were organized, through which experts from academi
 It was learned that quantum technology is currently in its early development stage, and it was identified as a matter of great importance that the prioritization of investment in human and physical capital be made by ASEAN member states at this time.
 ### 3. Exhibitions & Demonstrations
 Emphasis was placed on quantum-related research projects, prototypes, and learning aids within the area. The audience, composed mainly of students, was benefited by the exhibits as tough concepts related to quantum were made clear through the use of appropriate examples. Aside from that, the application of quantum technology in secure communication, optimization, and quantum computing was also demonstrated.
-## Reflection
+## 🔍Reflection
 >An important aspect of learning was addressed as the opportunity to be made aware of the various sectors existing in the world of quantum computing was afforded. The level of cooperation between sectors in the progress of quantum technologies was demonstrated by the high level of participation from both students and the academic sector. This was viewed as a significant factor, as the impact of cooperation in the world of sciences was reaffirmed.
 >
 >It was made clear through the welcome and keynote speeches that a firm stance is being taken by Malaysia not only on the enhancement of scientific development but also on the widening of international collaborations. Because this direction has been established, many thoughts have been provoked regarding how contributions to scientific advancements and current trends, such as quantum computing, can be made by students. The sense of national and global direction presented was found to be motivating and served as an inspiration for many.
