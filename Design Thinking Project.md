@@ -54,7 +54,7 @@ This project used a comprehensive 5-step process of Design Thinking:
   <tbody>
     <tr>
       <td>Report</td>
-      <td><a href="https://drive.google.com/file/d/19ByPK5tFPK5pzh8meCkqvmZI2LYs9YZX/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td><a href="https://drive.google.com/file/d/1ojXoj6L6tX33GWkQToLl5_pSGoTFn5PR/view?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Video</td>
