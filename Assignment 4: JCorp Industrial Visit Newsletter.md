@@ -31,9 +31,11 @@ JCorp adopts a RITE framework for digital transformation, consisting of Ideate, 
 ### 5. "People, Process, and Innovation" Empowerment
 The strategy focuses on the fact that people are at the core of the enterprise and that AI is the catalyst to make processes smoother and create an experimental mindset.
 ## Reflection
->_Notably, the entire leading approach by JCorp has shifted the outlook regarding AI from "tool" to "collaborator." "North Star" — engaging human and AI in value co-creation, refers to progressive leadership with a focus on outcomes compared to task-oriented SOPs._
+>Notably, the outlook regarding AI has been shifted from "tool" to "collaborator" through the leading approach adopted by JCorp. Human and AI engagement in value co-creation is referred to as the "North Star," by which progressive leadership is focused on outcomes rather than task-oriented SOPs.
 >
->_The JCorp example is the template by which the successful, sprawling conglomerate, encompassing Agribusiness, Healthcare, and Food, can demonetize the data bottleneck to achieve the status of an ExO. As JCorp progresses into the "Agent Swarms" — mode that functions independently, with the human element being informed, this is what prepares the organization for the new environment where flexibility, coupled with real-time data smarts, is the key differentiator. This transformation is, in essence, the way through which the well-observed truth is revealed: digital transformation is not all that complex, meaning it is less so in terms of technology, more so in terms of its organizational framework and philosophy._
+>The status of an ExO (Exponential Organization) can be achieved, and the data bottleneck demonetized, by using the JCorp example as a template for the successful, sprawling conglomerate, encompassing Agribusiness, Healthcare, and Food. Preparation for a new environment, where flexibility and real-time data smarts are positioned as key differentiators, is being facilitated as the "Agent Swarms" mode is entered. In this mode, independent functions are performed while the human element is kept informed.
+>
+>Through this transformation, a well-observed truth is revealed: digital transformation is seen as less complex in terms of technology, and is understood instead as being primarily a matter of organizational framework and philosophy.
 ## Photos
 ![20260107_094439](https://github.com/user-attachments/assets/a50f231d-47be-43a7-8d66-4e543a7f4fda)
 ![20260107_094603](https://github.com/user-attachments/assets/ed698444-636c-4b4c-8786-24fb70f75774)
