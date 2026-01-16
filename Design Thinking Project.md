@@ -77,12 +77,12 @@ This project used a comprehensive 5-step process of Design Thinking:
 
 
 ## 💭Reflection
->_This Design Thinking project was, in fact, a very beneficial and entertaining exercise for me. It opened my eyes to the fact that technology exists beyond coding and focuses on solving issues and problems on a daily basis, which people encounter in their lives. Since food waste in cafeterias is a significant problem at UTM, this project was very relevant to me._
+>The Design Thinking project was experienced as a highly beneficial and entertaining exercise. Eyes were opened to the fact that technology exists beyond coding and is focused on the resolution of daily issues and problems encountered in life. As food waste in cafeterias is viewed as a significant problem at UTM, the project was considered highly relevant.
 >
->_One key takeaway I learned is to think first and foremost about the user. I determined that not only is it inefficiently planned out by the cafeteria staff, but it is also due to varying student schedules and eating times when I surveyed and conducted interviews with students to see why they waste food in the cafeteria._
+>One key takeaway was learned: the user must be thought of first and foremost. It was determined that food waste is not only planned inefficiently by cafeteria staff but is also caused by varying student schedules and eating times; these findings were reached after surveys and interviews were conducted with students to investigate the causes of waste.
 >
->_I also learned how to collaborate effectively with other people. Idea-sharing, receiving constructive feedback, and optimizing our solution as a group helped me increase in self-confidence. The development of the Re-Saji application helped me realize how data concepts, as well as basic AI concepts, can be applied to make a difference._
+>Methods for effective collaboration with others were also learned. Self-confidence was increased through idea-sharing, the receipt of constructive feedback, and the optimization of the solution as a group. Through the development of the Re-Saji application, it was realized how data concepts and basic AI concepts can be applied to make a tangible difference.
 >
->_In the future, I would like to enhance knowledge of Python, SQL, and data analysis. In addition, I intend to participate in more projects and hackathons to acquire experience as well as the knowledge of how to provide optimal real-world solutions._
+>In the future, the enhancement of knowledge in Python, SQL, and data analysis is desired. Furthermore, participation in more projects and hackathons is intended so that experience may be acquired and the knowledge of how optimal real-world solutions are provided may be gained.
 </div>
 </div>
