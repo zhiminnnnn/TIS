@@ -45,6 +45,6 @@ A case study of the speaker’s employment as a Fabric Administrator is presente
 What is even more commendable about the experience of the speaker is the transition made from a Data Engineering student to a Senior Application Development Analyst in the span of merely two years. The actuality of the requirement for specialized professionals in the area of data is not only validated, but the effectiveness of the internship program, in view of its importance in the production of professionals, is also attested to. Furthermore, it is demonstrated that knowledge of the business sector (in this instance, coatings and specialty materials) is crucially required so that technical expertise may be focused on the needs of a particular industry, such as the analysis of optical products.
 ### Conclusion
 A whole-systems take on what is truly entailed in the management of data on a large scale was provided by this talk. It was reinforced that data engineering is not simply a technical entity; rather, it is necessitated that a knowledge of the tech stack be maintained, a dogmatic approach to data governance be adopted through a Center of Excellence, and a farther reach be established to remain abreast of new innovations such as Microsoft Fabric.
-## Photos
+## 📸Photos
 [Click here](https://drive.google.com/file/d/1wffClae0BQeAzOwln5gDoI0iTpfLKSC2/view?usp=sharing) to view the presentation slides.
 </div>
