@@ -37,7 +37,7 @@ Emphasis was placed on quantum-related research projects, prototypes, and learni
 >
 >Knowledge of the area was also reinforced by the exhibition stands. A chance was provided to engage with current research, technological demonstrations, and innovative ideas associated with quantum computing. Through this engagement with the presenters, questions were posed and a better understanding was achieved regarding how ideas derived from theoretical understanding are applied. Consequently, the exhibition stands were considered critical in the reinforcement of interest in this area as it relates to the application of quantum technologies in the advancement of future study.
 
-## Photos
+## 📸Photos
 ![VideoCapture_20251213-154955](https://github.com/user-attachments/assets/e89877df-2fff-4d78-ad4c-3fafb778cf03)
 ![IMG-20251211-WA0151](https://github.com/user-attachments/assets/1c56d893-a2bd-4474-b713-cd3e55fcfb66)
 ![20251211_145614](https://github.com/user-attachments/assets/64c6e597-7df7-48c1-a7b1-25c25afb255a)
