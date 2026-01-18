@@ -77,9 +77,9 @@ This project used a comprehensive 5-step process of Design Thinking:
 
 
 ## 💭Reflection
->The Design Thinking project was experienced as a highly beneficial and entertaining exercise. Eyes were opened to the fact that technology exists beyond coding and is focused on the resolution of daily issues and problems encountered in life. As food waste in cafeterias is viewed as a significant problem at UTM, the project was considered highly relevant.
+>This project was experienced as a highly beneficial and entertaining exercise. Eyes were opened to the fact that technology exists beyond coding and is focused on the resolution of daily issues and problems encountered in life. As food waste in cafeterias is viewed as a significant problem at UTM, the project was considered highly relevant.
 >
->One key takeaway was learned: the user must be thought of first and foremost. It was determined that food waste is not only planned inefficiently by cafeteria staff but is also caused by varying student schedules and eating times; these findings were reached after surveys and interviews were conducted with students to investigate the causes of waste.
+>One key takeaway was learned: users must be thought of first and foremost. It was determined that food waste is not only planned inefficiently by cafeteria staff but is also caused by varying student schedules and eating times; these findings were reached after surveys and interviews were conducted with students to investigate the causes of waste.
 >
 >Methods for effective collaboration with others were also learned. Self-confidence was increased through idea-sharing, the receipt of constructive feedback, and the optimization of the solution as a group. Through the development of the Re-Saji application, it was realized how data concepts and basic AI concepts can be applied to make a tangible difference.
 >
