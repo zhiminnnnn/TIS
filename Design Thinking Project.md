@@ -34,7 +34,7 @@
 ## 💡Design Thinking Process
 This project used a comprehensive 5-step process of Design Thinking:
 - **Empathize**: Conducted interviews and surveys to know the problem areas for both students and cafeteria staff, resulting in over 45 responses.
-- **Define**:Identified the problem in its basic form, stating that food wastage comes about because of the absence of proper consumption forecasting.
+- **Define**: Identified the problem in its basic form, stating that food wastage comes about because of the absence of proper consumption forecasting.
 - **Ideate**: Brainstormed ideas included smart bins, AI image recognition, but eventually, the decision landed on the QR reserve app.
 - **Prototype**: Developed low-fidelity UI design prototypes with Canva. Designed the user journey for both students and kitchen staff.
 - **Test**: Conducted testing of the prototype on UTM students and staff, who positively responded to its uses in forecasting student enrolment and minimizing wastage.
