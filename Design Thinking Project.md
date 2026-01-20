@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="700" height="308.5" alt="1_33khN9zpFCMWnF8pLqeVTQ" src="https://github.com/user-attachments/assets/c98a116a-9193-4657-9f2c-6fdc948c36da" />
+<img width="350" height="154.25" alt="1_33khN9zpFCMWnF8pLqeVTQ" src="https://github.com/user-attachments/assets/c98a116a-9193-4657-9f2c-6fdc948c36da" />
 
 # Design Thinking: Food Waste Analytics
 ***"Reduce cafeteria waste through predictive data modeling"***
