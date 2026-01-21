@@ -12,7 +12,7 @@
 <div align="justify">
 
 ## Newsletter
-[Click here]() to view the newsletter.
+[Click here](https://drive.google.com/file/d/1inc6240A5yWYZNHJ8jrbVF4_-Ti7dwbm/view?usp=sharing) to view the newsletter.
 ## Key Learnings
 ### 1. Strategic Vision (AI-First Ambition)
 JCorp is transforming itself into an AI-First Investment Holding Company. This entails moving out of the classical top-down organizational structure and adopting an “Agentic Enterprise” structure that is decentralized and consists of self-owned agents that function as separate units.
